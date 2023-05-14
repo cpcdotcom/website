@@ -42193,11 +42193,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-1 {
-  min-height: 121px;
+  min-height: 194px;
 }
 
 .u-footer .u-container-layout-1 {
   padding: 20px 30px;
+}
+
+.u-footer .u-position-1 {
+  height: auto;
+  min-height: 124px;
+  width: 300px;
+  margin: 0;
+}
+
+.u-footer .u-text-1 {
+  font-weight: 700;
 }
 
 .u-footer .u-layout-cell-2 {
@@ -42231,19 +42242,14 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 24px;
   min-height: 16px;
-  width: 62px;
-  min-width: 46px;
+  width: 24px;
+  min-width: 16px;
   margin: 0 20px 0 auto;
 }
 
 .u-footer .u-icon-1 {
   height: 100%;
   color: rgb(0, 230, 118) !important;
-}
-
-.u-footer .u-icon-2 {
-  height: 100%;
-  color: rgb(53, 194, 53) !important;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -42255,9 +42261,17 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: initial;
   }
 
+  .u-footer .u-layout-cell-1 {
+    min-height: 121px;
+  }
+
   .u-footer .u-container-layout-1 {
     padding-left: 25px;
     padding-right: 25px;
+  }
+
+  .u-footer .u-position-1 {
+    width: 233px;
   }
 
   .u-footer .u-image-1 {
@@ -42271,7 +42285,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
+    width: 24px;
     margin-right: 0;
+    height: 24px;
   }
 }
 @media (max-width: 991px) {
