@@ -1397,10 +1397,14 @@
     min-height: 1024px;
   }
 
+  .u-section-7 .u-shape-1 {
+    margin-top: 481px;
+  }
+
   .u-section-7 .u-image-1 {
     height: 416px;
     width: 534px;
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .u-section-7 .u-shape-2 {
@@ -1408,20 +1412,31 @@
     margin-right: 27px;
   }
 
+  .u-section-7 .u-group-1 {
+    min-height: 504px;
+    margin-top: -256px;
+    margin-bottom: 60px;
+  }
+
   .u-section-7 .u-container-layout-1 {
     padding-right: 30px;
     padding-left: 30px;
+  }
+
+  .u-section-7 .u-btn-1 {
+    margin-top: 0;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 889px;
+    min-height: 1002px;
   }
 
   .u-section-7 .u-shape-1 {
     width: 487px;
     height: 284px;
+    margin-top: 357px;
     margin-left: 0;
   }
 
@@ -1437,9 +1452,14 @@
     margin-right: 21px;
   }
 
+  .u-section-7 .u-group-1 {
+    min-height: 654px;
+  }
+
   .u-section-7 .u-container-layout-1 {
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 22px;
   }
 }
 
@@ -1469,7 +1489,6 @@
 
   .u-section-7 .u-group-1 {
     min-height: 933px;
-    margin-bottom: 60px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 1314px;
@@ -2122,18 +2141,23 @@
 
 @media (max-width: 1199px) {
   .u-section-10 .u-sheet-1 {
-    min-height: 720px;
+    min-height: 689px;
   }
 
   .u-section-10 .u-slider-1 {
+    min-height: 488px;
     margin-right: initial;
     margin-left: initial;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 589px;
+  }
+
   .u-section-10 .u-slider-1 {
-    min-height: 440px;
+    min-height: 375px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -2147,11 +2171,23 @@
     padding-left: 30px;
     padding-right: 30px;
   }
+
+  .u-section-10 .u-carousel-control-1 {
+    left: -49px;
+  }
+
+  .u-section-10 .u-carousel-control-2 {
+    right: -49px;
+  }
 }
 
 @media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 493px;
+  }
+
   .u-section-10 .u-slider-1 {
-    min-height: 410px;
+    min-height: 276px;
     margin-right: initial;
     margin-left: initial;
   }
