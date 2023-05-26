@@ -42261,14 +42261,24 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 24px;
   min-height: 16px;
-  width: 24px;
-  min-width: 16px;
+  width: 101px;
+  min-width: 76px;
   margin: 0 20px 0 auto;
 }
 
 .u-footer .u-icon-1 {
   height: 100%;
   color: rgb(0, 230, 118) !important;
+}
+
+.u-footer .u-icon-2 {
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
+}
+
+.u-footer .u-icon-3 {
+  height: 100%;
+  color: rgb(53, 194, 53) !important;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -42303,9 +42313,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    width: 24px;
+    width: 62px;
+    min-width: 46px;
     margin-right: 0;
-    height: 24px;
   }
 }
 @media (max-width: 991px) {
