@@ -42204,8 +42204,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     height: 97px;
-    margin-top: -80px;
+    margin-top: -66px;
     margin-left: auto;
+    margin-bottom: 22px;
   }
 }
 .u-footer .u-sheet-1 {
@@ -42410,6 +42411,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 340px;
   }
 
+  .u-footer .u-layout-cell-1 {
+    min-height: 243px;
+  }
+
   .u-footer .u-container-layout-1 {
     padding-top: 7px;
     padding-bottom: 7px;
@@ -42417,7 +42422,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-position-1 {
     width: 320px;
-    margin-top: 26px;
+    margin-top: 0;
   }
 
   .u-footer .u-layout-cell-2 {
