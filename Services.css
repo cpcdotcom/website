@@ -7,7 +7,7 @@
 .u-section-1 .u-text-1 {
   font-size: 3.375rem;
   font-weight: 700;
-  margin: 176px 428px 60px auto;
+  margin: 177px 418px 60px auto;
 }
 
 @media (max-width: 1199px) {
@@ -17,7 +17,7 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    font-size: 3.125rem;
+    font-size: 2.875rem;
     margin-top: 142px;
     margin-right: 340px;
   }
@@ -29,10 +29,10 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.375rem;
-    margin-top: 109px;
-    margin-right: 248px;
-    margin-left: 301px;
+    font-size: 2.125rem;
+    margin-top: 111px;
+    margin-right: 250px;
+    margin-left: 299px;
   }
 }
 
@@ -42,10 +42,10 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
-    margin-top: 81px;
-    margin-right: 180px;
-    margin-left: 220px;
+    font-size: 1.625rem;
+    margin-top: 84px;
+    margin-right: 183px;
+    margin-left: 217px;
   }
 }
 
@@ -55,7 +55,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.125rem;
+    font-size: 1.0625rem;
     margin-top: 58px;
     margin-right: 119px;
     margin-left: 142px;
@@ -188,9 +188,21 @@
     padding-right: 10px;
   }
 
+  .u-section-2 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-accordion-link-1 {
+    font-size: 1.25rem;
+  }
+
   .u-section-2 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-2 {
+    font-size: 1.25rem;
   }
 
   .u-section-2 .u-container-layout-3 {
@@ -198,9 +210,17 @@
     padding-right: 10px;
   }
 
+  .u-section-2 .u-accordion-link-3 {
+    font-size: 1.25rem;
+  }
+
   .u-section-2 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-4 {
+    font-size: 1.25rem;
   }
 
   .u-section-2 .u-container-layout-5 {
@@ -271,6 +291,10 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.25rem;
+  }
 }
 
 @media (max-width: 575px) {
@@ -340,6 +364,10 @@
   .u-section-4 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1.25rem;
   }
 }
 
@@ -426,6 +454,10 @@
   .u-section-5 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 1.25rem;
   }
 }
 
