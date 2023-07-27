@@ -43194,17 +43194,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 134px;
+    min-height: 118px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 49px;
+    margin-top: 43px;
   }
 
   .u-header .u-image-1 {
     height: 97px;
-    margin-top: -62px;
-    margin-bottom: 19px;
+    margin-top: -64px;
+    margin-bottom: 11px;
   }
 }
 .u-footer .u-sheet-1 {
