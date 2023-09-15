@@ -43233,11 +43233,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 172px;
+  min-height: 223px;
 }
 
 .u-footer .u-layout-wrap-1 {
-  margin: 21px 0 0;
+  margin-top: 11px;
+  margin-bottom: 11px;
 }
 
 .u-footer .u-layout-cell-1 {
@@ -43324,13 +43325,8 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 239px;
   }
 
-  .u-footer .u-layout-wrap-1 {
-    width: 942px;
-    margin: 14px auto 33px -13px;
-  }
-
   .u-footer .u-layout-cell-1 {
-    min-height: 222px;
+    min-height: 167px;
   }
 
   .u-footer .u-container-layout-1 {
@@ -43343,7 +43339,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 222px;
+    min-height: 175px;
   }
 
   .u-footer .u-container-layout-2 {
@@ -43351,7 +43347,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-3 {
-    min-height: 222px;
+    min-height: 100px;
   }
 
   .u-footer .u-container-layout-3 {
@@ -43369,15 +43365,8 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 410px;
   }
 
-  .u-footer .u-layout-wrap-1 {
-    width: 720px;
-    margin-top: 36px;
-    margin-bottom: 0;
-    margin-left: 0;
-  }
-
   .u-footer .u-layout-cell-1 {
-    min-height: 225px;
+    min-height: 100px;
   }
 
   .u-footer .u-container-layout-1 {
@@ -43392,11 +43381,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 225px;
+    min-height: 201px;
   }
 
   .u-footer .u-layout-cell-3 {
-    min-height: 160px;
+    min-height: 115px;
   }
 
   .u-footer .u-container-layout-3 {
@@ -43413,12 +43402,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
     min-height: 709px;
-  }
-
-  .u-footer .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 
   .u-footer .u-layout-cell-1 {
@@ -43446,13 +43429,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 115px;
-  }
-
-  .u-footer .u-layout-wrap-1 {
-    margin-bottom: 12px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-footer .u-layout-cell-1 {
